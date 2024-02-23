@@ -1,2 +1,10 @@
 cout<<"My name is:"<<"Zeeshan Atif";
 cout<<"My roll no is:"<<"23-ST-002";
+cout<<"My fsc subjects are:";
+cout<<"English";
+cout<<"Math";
+cout<<"PAK-st";
+cout<<"Chemistry";
+cout<<"Physics";
+cout<<"urdu";
+
