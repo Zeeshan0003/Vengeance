@@ -7,4 +7,11 @@ cout<<"PAK-st";
 cout<<"Chemistry";
 cout<<"Physics";
 cout<<"urdu";
+cout<<"My first sem subjects are";
+cout<<"ICT + LAB";
+cout<<"Programming + LAB";
+cout<<"Quantitative reasoning";
+cout<<"OHSM";
+cout<<"ISL";
+cout<<"PHYSICS + LAB";
 
