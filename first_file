@@ -14,4 +14,12 @@ cout<<"Quantitative reasoning";
 cout<<"OHSM";
 cout<<"ISL";
 cout<<"PHYSICS + LAB";
+cout<<"My 2nd sem subjects are";
+cout<<"functional English";
+cout<<"discrete math";
+cout<<"stats and propability";
+cout<<"OOP";
+cout<<"SCM";
+cout<<"SDLC";
+cout<<"Quran";
 
